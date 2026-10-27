@@ -1,31 +1,33 @@
+# He thong quan ly nhan su
 
-# Hệ thống quản lý nhân sự
-
-## Thông tin sinh viên
-- Họ tên: VoNguyenTheAnh
+## Thong tin sinh vien
+- Ho ten: Vo Nguyen The Anh
 - MSSV: 239711
-- Lớp: DH23TIN10
+- Lop: [Dien lop cua ban]
 
-## Mô tả
-Ứng dụng quản lý nhân sự cho phép xem, thêm, tìm kiếm,
-cập nhật và xóa hồ sơ nhân viên.
+## Mo ta
+Ung dung quan ly nhan su: xem danh sach, them, tim kiem, cap nhat va xoa ho so nhan vien.
 
-## Công nghệ
-- Frontend: React
-- Backend: Node.js, Express
-- Database: MongoDB Atlas
-- Source Control: Git, GitHub
-- Container: Docker, Docker Hub
-- Deployment: Render
+## Cong nghe
+React, Node.js, Express, MongoDB Atlas, Git/GitHub, Docker, Docker Hub, Render.
 
-## Hướng dẫn chạy
-- Backend: cd backend, npm install, npm start
-- Frontend: cd frontend, npm install, npm run dev
+## Chay local
+Backend:
+1. `cd backend`
+2. `npm install`
+3. Tao file `.env` tu `.env.example`, dien `MONGODB_URI`
+4. `npm start`
 
-## Các đường link
-- GitHub: [Link repository]
-- Docker Hub Backend: [Link image Backend]
-- Docker Hub Frontend: [Link image Frontend]
-- Render App: [Link Frontend]
-- Render API: [Link Backend API]
-- MongoDB Atlas: [Link Atlas]
+Frontend:
+1. `cd frontend`
+2. `npm install`
+3. Tao `frontend/.env` voi `VITE_API_URL=http://localhost:5000`
+4. `npm run dev`
+
+## Link nop bai
+- GitHub: https://github.com/theanhth11362-hub/239711_VoNguyenTheAnh
+- Docker Hub Backend: [dien link]
+- Docker Hub Frontend: [dien link]
+- Render App: [dien link]
+- Render API: [dien link]
+- MongoDB Atlas: [dien link]
