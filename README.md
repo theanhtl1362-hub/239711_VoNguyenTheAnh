@@ -3,8 +3,7 @@
 ## Thong tin sinh vien
 - Ho ten: Vo Nguyen The Anh
 - MSSV: 239711
-- Lop: [Dien lop cua ban]
-
+- Lop: DH23TIN10
 ## Mo ta
 Ung dung quan ly nhan su: xem danh sach, them, tim kiem, cap nhat va xoa ho so nhan vien.
 
